@@ -1,0 +1,111 @@
+.heading {
+    width:100%;
+    text-align:left;
+}
+.heading h3{
+    display:inline
+}
+.heading button{
+    float:right;
+    border:1px solid white; 
+}
+.big_image{
+    width:100%
+}
+#start, #status{
+    font-size:22px;
+}
+         
+         
+.btn-grad {
+  background-image: linear-gradient(to right, #314755 0%, #26a0da  51%, #314755  100%);
+  margin: 0px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 0px;
+  display: block;
+  font-family: cursive;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+          
+           
+         .btn-grad2 {
+            background-image: linear-gradient(to right, #1D976C 0%, #93F9B9  51%, #1D976C  100%);
+            margin: 0px;
+            padding: 5px 35px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .btn-grad2:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+         
+          
+           
+          .btn-grad3 {
+            background-image: linear-gradient(to right, #649173 0%, #DBD5A4  51%, #649173  100%);
+            margin: 10px;
+            padding: 15px 25px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .btn-grad3:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+                   
+         .btn-grad4 {
+          background-image: linear-gradient(to right, #3D7EAA 0%, #FFE47A  51%, #3D7EAA  100%);
+          margin: 10px;
+          padding: 15px 45px;
+          text-align: center;
+          text-transform: uppercase;
+          transition: 0.5s;
+          background-size: 200% auto;
+          color: white;            
+          box-shadow: 0 0 20px #eee;
+          border-radius: 10px;
+          display: block;
+        }
+
+        .btn-grad4:hover {
+          background-position: right center; /* change the direction of the change here */
+          color: #fff;
+          text-decoration: none;
+        }
+        .footer{
+          background-color:black;
+          line-height:2;
+          margin:0px;
+          color:white;
+          width:100%;
+          position:fixed;
+          bottom:0;
+        }
